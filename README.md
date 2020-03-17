@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[我的Pages](https://ericlefu.github.io/Markdown规范)
+[我的Pages](https://ericlefu.github.io/Markdown规则)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
