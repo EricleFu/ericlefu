@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[]我的Pages](https://github.com/EricleFu/ericlefu.github.io/blob/master/Markdown%20%E8%A7%84%E5%88%99)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
