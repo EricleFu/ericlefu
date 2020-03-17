@@ -54,7 +54,7 @@ Heading 2
 [1]: http://b.org
 ```
 显示如下：\
-[Link](http://a.com)
+[Link](https://zh.mweb.im/asset/img/set-up-git.gif)
 ### 图片
 ```
 ![Image](http://url/a.png)
