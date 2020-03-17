@@ -1,6 +1,7 @@
 # Markdown 规则
 ## CommonMark 标准
 ### 斜体
+
     *Italic斜体*  或者  _Italic斜体_
 
 显示如下：\
@@ -8,6 +9,7 @@
 
 ### 加粗
 	**Bold加粗** 或者 __Bold加粗__
+	
 显示如下：\
 **Bold加粗**
 ### 嵌套
